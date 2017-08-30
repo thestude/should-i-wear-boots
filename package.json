@@ -1,0 +1,26 @@
+{
+  "name": "should-i-wear-boots",
+  "version": "1.0.0",
+  "description": "weather api app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c-luu/should-i-wear-boots.git"
+  },
+  "author": "c-luu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c-luu/should-i-wear-boots/issues"
+  },
+  "homepage": "https://github.com/c-luu/should-i-wear-boots#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "qunitjs": "^2.4.0"
+  }
+}
